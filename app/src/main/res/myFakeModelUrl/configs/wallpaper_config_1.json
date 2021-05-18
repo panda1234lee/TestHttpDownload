@@ -1,7 +1,7 @@
 {
     "id": 2, 
-    "title": "", 
-    "desc": "",  
+    "title": "小飞机", 
+    "desc": "使用默认天空盒的小飞机",  
     "thumb": "",
     "video": "", 
     "modelUrl": "https://raw.githubusercontent.com/panda1234lee/TestHttpDownload/main/app/src/main/res/myFakeModelUrl/models/BusterDrone.zip",

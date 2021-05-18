@@ -1,7 +1,7 @@
 {
     "id": 1, 
-    "title": "", 
-    "desc": "",  
+    "title": "狐狸", 
+    "desc": "带动画的狐狸",  
     "thumb": "",
     "video": "", 
     "modelUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/models/Fox.zip",
