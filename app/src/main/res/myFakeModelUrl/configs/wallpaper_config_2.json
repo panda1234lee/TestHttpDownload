@@ -1,15 +1,15 @@
 
 {
     "id": 3, 
-    "title": "grogu", 
-    "desc": "grogu.glb",  
+    "title": "", 
+    "desc": "",  
     "thumb": "",
     "video": "", 
-    "modelUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/grogu.zip",
+    "modelUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/models/grogu.zip",
     "scale": 1.5,  
     "centerX": 0,
     "centerY": -0.25,
     "centerZ": -4,
     "envMapId": 2,
-    "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/output.zip"
+    "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/envMaps/output.zip"
 }

@@ -1,10 +1,10 @@
 {
     "id": 2, 
-    "title": "BusterDrone", 
-    "desc": "scene.gltf",  
+    "title": "", 
+    "desc": "",  
     "thumb": "",
     "video": "", 
-    "modelUrl": "https://raw.githubusercontent.com/panda1234lee/TestHttpDownload/main/app/src/main/res/myFakeModelUrl/BusterDrone.zip",
+    "modelUrl": "https://raw.githubusercontent.com/panda1234lee/TestHttpDownload/main/app/src/main/res/myFakeModelUrl/models/BusterDrone.zip",
     "scale": 2,  
     "centerX": 0,
     "centerY": 0,
