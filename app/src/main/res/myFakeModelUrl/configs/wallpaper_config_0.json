@@ -1,0 +1,14 @@
+{
+    "id": 1, 
+    "title": "Fox", 
+    "desc": "Fox.glb",  
+    "thumb": "",
+    "video": "", 
+    "modelUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/Fox.zip",
+    "scale": 2,  
+    "centerX": 0,
+    "centerY": 0,
+    "centerZ": -4,
+    "envMapId": 1,
+    "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/venetian_crossroads_2k.zip"
+}

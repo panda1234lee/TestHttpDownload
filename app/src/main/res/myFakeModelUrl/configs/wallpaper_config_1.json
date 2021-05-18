@@ -1,0 +1,14 @@
+{
+    "id": 2, 
+    "title": "BusterDrone", 
+    "desc": "scene.gltf",  
+    "thumb": "",
+    "video": "", 
+    "modelUrl": "https://raw.githubusercontent.com/panda1234lee/TestHttpDownload/main/app/src/main/res/myFakeModelUrl/BusterDrone.zip",
+    "scale": 2,  
+    "centerX": 0,
+    "centerY": 0,
+    "centerZ": -4,
+    "envMapId": 0,
+    "envMapUrl": ""
+}
