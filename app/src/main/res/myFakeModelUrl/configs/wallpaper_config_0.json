@@ -10,5 +10,7 @@
     "centerY": 0,
     "centerZ": -4,
     "envMapId": 1,
-    "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/envMaps/venetian_crossroads_2k.zip"
+    "envMapTitle": "蓝天白云阳光",
+    "envMapThumb": "",
+    "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/envMaps/hou.zip"
 }

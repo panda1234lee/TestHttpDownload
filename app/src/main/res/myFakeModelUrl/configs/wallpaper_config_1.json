@@ -10,5 +10,7 @@
     "centerY": 0,
     "centerZ": -4,
     "envMapId": 0,
+    "envMapTitle": "默认",
+    "envMapThumb": "",
     "envMapUrl": ""
 }

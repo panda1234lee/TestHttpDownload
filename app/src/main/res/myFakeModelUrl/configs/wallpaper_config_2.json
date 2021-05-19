@@ -11,5 +11,7 @@
     "centerY": -0.25,
     "centerZ": -4,
     "envMapId": 2,
+    "envMapTitle": "火烧云",
+    "envMapThumb": "",
     "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/envMaps/output.zip"
 }
