@@ -11,6 +11,7 @@
     "centerZ": -4,
     "envMapId": 1,
     "envMapTitle": "蓝天白云阳光",
+    "envMapDesc": "自然主题",
     "envMapThumb": "",
     "envMapUrl": "https://github.com/panda1234lee/TestHttpDownload/raw/main/app/src/main/res/myFakeModelUrl/envMaps/hou.zip"
 }
